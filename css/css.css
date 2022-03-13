@@ -1,0 +1,26 @@
+body{
+    background: #eef5ea;
+}
+h2{
+    margin: 15px 0px;
+}
+ul{
+	text-align: center;
+}
+footer{
+    background: #343a40;
+    padding-bottom: 15
+    px;
+}
+
+#rodape{
+   padding-top: 15px;
+    color: #ffffff;
+}
+
+#data-postado{
+    color: rgb(163, 163, 163); 
+    border-left: 4px solid rgb(163, 163, 163); 
+    padding: 10px 5px; 
+    margin-bottom: 5px;
+}
